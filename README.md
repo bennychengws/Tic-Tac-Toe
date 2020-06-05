@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-### Download and launch "Tic Tac Toe Game.exe" to test the game ###
+### Click the Youtube to watch the demo.
